@@ -1,4 +1,4 @@
 # PID-Controlled-Robots
-PID controlled Line Follower, Maze Follower and Obstacle Avoidance Robots
+PID controlled Line Follower and Maze Follower Robot was designed and developed.
 
-See also(https://youtu.be/lsnLn9BhQDc) 
+See also [PID controlled LFR Robot](https://youtu.be/lsnLn9BhQDc) 
